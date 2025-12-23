@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>منوی کافه</title>
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #fefefe;
+      color: #333;
+      direction: rtl;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #6b4f4f;
+    }
+    .menu-section {
+      margin: 30px 0;
+    }
+    .menu-section h2 {
+      color: #8b5e3c;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      padding: 8px 0;
+      border-bottom: 1px dashed #ddd;
+    }
+  </style>
+</head>
+<body>
+  <h1>☕ منوی کافه</h1>
+
+  <div class="menu-section">
+    <h2>نوشیدنی‌های گرم</h2>
+    <ul>
+      <li>اسپرسو</li>
+      <li>لاته</li>
+      <li>کاپوچینو</li>
+      <li>آمریکانو</li>
+      <li>موکا</li>
+      <li>هات چاکلت</li>
+      <li>چای ماسالا</li>
+      <li>قهوه ترک</li>
+    </ul>
+  </div>
+
+  <div class="menu-section">
+    <h2>نوشیدنی‌های سرد</h2>
+    <ul>
+      <li>آیس لاته</li>
+      <li>آیس آمریکانو</li>
+      <li>آیس موکا</li>
+      <li>آیس تی</li>
+      <li>اسموتی میوه‌ای</li>
+      <li>شیک شکلاتی</li>
+      <li>موکتل</li>
+    </ul>
+  </div>
+
+  <div class="menu-section">
+    <h2>دسر و شیرینی</h2>
+    <ul>
+      <li>چیزکیک</li>
+      <li>کیک شکلاتی</li>
+      <li>براونی</li>
+      <li>کروسان</li>
+      <li>کوکی</li>
+      <li>وافل</li>
+      <li>پنکیک</li>
+    </ul>
+  </div>
+
+  <div class="menu-section">
+    <h2>میان‌وعده‌ها</h2>
+    <ul>
+      <li>ساندویچ مرغ گریل</li>
+      <li>پنینی سبزیجات</li>
+      <li>سالاد سزار</li>
+      <li>نان سیر</li>
+      <li>پاستا آلفردو</li>
+    </ul>
+  </div>
+
+  <div class="menu-section">
+    <h2>افزودنی‌ها</h2>
+    <ul>
+      <li>شیر بادام</li>
+      <li>شیر نارگیل</li>
+      <li>خامه</li>
+      <li>دارچین</li>
+      <li>سیروپ وانیل</li>
+      <li>سیروپ کارامل</li>
+    </ul>
+  </div>
+</body>
+</html>
